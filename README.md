@@ -1,8 +1,8 @@
 <h1>Projeto: Criando a Primeira Landing Page</h1>
 <p>Este projeto tem como objetivo estudar e aprimorar habilidades em CSS e almejando focar em um bom resultado trabalhando em um projeto prático. A ideia é criar uma lading page com da DIO.</p><hr>
-<div style="display: inline; text-align: center;">
-    <img src="exemplo.jpg" alt="Exemplo imagem" />
-</div>
+<p align="center">
+  <img src="exemplo.jpg" alt="Exemplo de projeto" />
+</p>
 
 <h2>Tecnologias Utilizadas</h2>
 <ul>
